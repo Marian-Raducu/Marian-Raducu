@@ -19,7 +19,7 @@ Explore my live portfolio and projects:
 
 ## 💼 Projects
 
-### 🔧 FixerUpper eCommerce
+### 🔧 FixerUpper eCommerce Website
 A PHP/MySQL-based eCommerce prototype for a hardware business  
 🔗 [GitHub Repo](https://github.com/Marian-Raducu/fixerupper)
 
@@ -27,7 +27,7 @@ A PHP/MySQL-based eCommerce prototype for a hardware business
 Full event CRUD and member management using PHP, MySQL  
 🔗 [GitHub Repo](https://github.com/Marian-Raducu/EventManagementWebsite)
 
-### 🛠️ Garage Website  
+### 🛠️ CustomGarageAutoParts Website  
 Static multi-page garage site with reviews and contact  
 🔗 [GitHub Repo](https://github.com/Marian-Raducu/CustomGarageAutoParts)
 
