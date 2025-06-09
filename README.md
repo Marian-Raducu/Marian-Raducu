@@ -49,4 +49,4 @@ Problem-solving, Communication, Teamwork, Adaptability
 ## 🔗 Let's Connect
 
 - [GitHub](https://github.com/Marian-Raducu)
-- 📧 Email: marianraducu@hormail.com
+- 📧 Email: marianraducu@hotmail.com
