@@ -21,7 +21,7 @@ Explore my live portfolio and projects:
 
 ### 🔧 FixerUpper eCommerce
 A PHP/MySQL-based eCommerce prototype for a hardware business  
-🔗 [GitHub Repo](https://github.com/Marian-Raducu/fixerupper_prototype)
+🔗 [GitHub Repo](https://github.com/Marian-Raducu/fixerupper)
 
 ### 📅 Event Management Website  
 Full event CRUD and member management using PHP, MySQL  
