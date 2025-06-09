@@ -13,7 +13,7 @@ I'm a passionate web developer with a Computer Science degree and a strong focus
 ## 🚀 My Portfolio
 
 Explore my live portfolio and projects:
-👉 [https://yourusername.github.io/](https://yourusername.github.io/)
+👉 [https://Marian-Raducu.github.io/](https://Marian-Raducu.github.io/)
 
 ---
 
@@ -21,15 +21,15 @@ Explore my live portfolio and projects:
 
 ### 🔧 FixerUpper eCommerce
 A PHP/MySQL-based eCommerce prototype for a hardware business  
-🔗 [Live Project](https://yourusername.github.io/fixerupper_prototype4) | [GitHub Repo](https://github.com/yourusername/fixerupper_prototype4)
+🔗 [Live Project](https://Marian-Raducu.github.io/fixerupper_prototype4) | [GitHub Repo](https://github.com/Marian-Raducu/fixerupper_prototype4)
 
 ### 📅 Event Management Website  
 Full event CRUD and member management using PHP, MySQL  
-🔗 [Live Project](https://yourusername.github.io/EventManagementWebsite) | [GitHub Repo](https://github.com/yourusername/EventManagementWebsite)
+🔗 [Live Project](https://Marian-Raducu.github.io/EventManagementWebsite) | [GitHub Repo](https://github.com/Marian-Raducu/EventManagementWebsite)
 
 ### 🛠️ Garage Website  
 Static multi-page garage site with reviews and contact  
-🔗 [Live Project](https://yourusername.github.io/GarageProject) | [GitHub Repo](https://github.com/yourusername/GarageProject)
+🔗 [Live Project](https://Marian-Raducu.github.io/GarageProject) | [GitHub Repo](https://github.com/Marian-Raducu/GarageProject)
 
 ---
 
@@ -48,5 +48,5 @@ Problem-solving, Communication, Teamwork, Adaptability
 
 ## 🔗 Let's Connect
 
-- [GitHub](https://github.com/yourusername)
+- [GitHub](https://github.com/Marian-Raducu)
 - 📧 Email: marianraducu@hormail.com
