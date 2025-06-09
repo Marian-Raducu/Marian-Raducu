@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Marian Cosmin Raducu 👋
 
-<!--
-**Marian-Raducu/Marian-Raducu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate web developer with a Computer Science degree and a strong focus on PHP, MySQL, and full-stack web development. I enjoy solving real-world problems by building functional, clean, and responsive websites.
 
-Here are some ideas to get you started:
+- 🧩 Currently working on personal and freelance projects like FixerUpper and Event Management Site
+- 📚 Continuously learning new web technologies and best practices
+- 💬 Ask me about PHP, MySQL, JavaScript, or web app development in general
+- 📫 Reach me at: marianraducu@hormail.com
+- ⚡ Fun fact: I enjoy building from scratch and turning ideas into practical apps
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 My Portfolio
+
+Explore my live portfolio and projects:
+👉 [https://yourusername.github.io/](https://yourusername.github.io/)
+
+---
+
+## 💼 Projects
+
+### 🔧 FixerUpper eCommerce
+A PHP/MySQL-based eCommerce prototype for a hardware business  
+🔗 [Live Project](https://yourusername.github.io/fixerupper_prototype4) | [GitHub Repo](https://github.com/yourusername/fixerupper_prototype4)
+
+### 📅 Event Management Website  
+Full event CRUD and member management using PHP, MySQL  
+🔗 [Live Project](https://yourusername.github.io/EventManagementWebsite) | [GitHub Repo](https://github.com/yourusername/EventManagementWebsite)
+
+### 🛠️ Garage Website  
+Static multi-page garage site with reviews and contact  
+🔗 [Live Project](https://yourusername.github.io/GarageProject) | [GitHub Repo](https://github.com/yourusername/GarageProject)
+
+---
+
+## 🛠️ Skills
+
+**Languages:**  
+PHP, HTML5, CSS3, JavaScript, SQL, Python
+
+**Tools & Frameworks:**  
+MySQL, Git, VS Code, NetBeans, Bootstrap (basic)
+
+**Soft Skills:**  
+Problem-solving, Communication, Teamwork, Adaptability
+
+---
+
+## 🔗 Let's Connect
+
+- [GitHub](https://github.com/yourusername)
+- 📧 Email: marianraducu@hormail.com
