@@ -24,7 +24,7 @@ A secure task management system
 🔗 [GitHub Repo](https://github.com/Marian-Raducu/SecureWebApp)
 
 ### 🍽 Delish Restaurant
-HTML, CSS, PHP, and MySQL-based restaurant Website
+HTML, CSS, PHP, and MySQL-based restaurant Website  
 🔗 [GitHub Repo](https://github.com/Marian-Raducu/delish)
 
 ### 🔧 FixerUpper eCommerce Website
