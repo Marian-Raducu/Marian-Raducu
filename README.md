@@ -44,7 +44,7 @@ Static multi-page garage site with reviews and contact
 ## 🛠️ Skills
 
 **Languages:**  
-PHP, HTML5, CSS3, JavaScript, SQL, Python
+PHP, HTML5, CSS3, JavaScript, SQL, Python.
 
 **Tools & Frameworks:**  
 MySQL, Git, VS Code, NetBeans, Bootstrap (basic)
