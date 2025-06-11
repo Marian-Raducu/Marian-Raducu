@@ -19,6 +19,14 @@ Explore my live portfolio and projects:
 
 ## 💼 Projects
 
+### 🔐Secure Web Application
+A secure task management system with user authentication, task tracking, and priority-based updates. 
+🔗 [GitHub Repo](https://github.com/Marian-Raducu/SecureWebApp)
+
+### 🍽 Delish Restaurant
+HTML, CSS, PHP, and MySQL-based restaurant website featuring menu, reservation, and contact functionality. 
+🔗 [GitHub Repo](https://github.com/Marian-Raducu/delish)
+
 ### 🔧 FixerUpper eCommerce Website
 A PHP/MySQL-based eCommerce prototype for a hardware business  
 🔗 [GitHub Repo](https://github.com/Marian-Raducu/fixerupper)
