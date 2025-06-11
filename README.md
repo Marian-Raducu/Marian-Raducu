@@ -20,7 +20,7 @@ Explore my live portfolio and projects:
 ## 💼 Projects
 
 ### 🔐Secure Web Application
-A secure task management system with user authentication, task tracking, and priority-based updates. 
+A secure task management system  
 🔗 [GitHub Repo](https://github.com/Marian-Raducu/SecureWebApp)
 
 ### 🍽 Delish Restaurant
